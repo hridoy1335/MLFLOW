@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5e4ac25f5f71499fbe97985f1ba8d14d/artifacts
+end_time: 1746958076263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e4ac25f5f71499fbe97985f1ba8d14d
+run_name: beautiful-fowl-900
+run_uuid: 5e4ac25f5f71499fbe97985f1ba8d14d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746958076250
+status: 3
+tags: []
+user_id: mac

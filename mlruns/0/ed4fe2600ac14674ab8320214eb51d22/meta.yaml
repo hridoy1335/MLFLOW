@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ed4fe2600ac14674ab8320214eb51d22/artifacts
+end_time: 1746958131117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed4fe2600ac14674ab8320214eb51d22
+run_name: treasured-squid-886
+run_uuid: ed4fe2600ac14674ab8320214eb51d22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746958131104
+status: 3
+tags: []
+user_id: mac

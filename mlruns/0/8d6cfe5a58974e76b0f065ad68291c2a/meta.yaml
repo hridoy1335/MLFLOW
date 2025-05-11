@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8d6cfe5a58974e76b0f065ad68291c2a/artifacts
+deleted_time: 1746958096624
+end_time: 1746957956919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8d6cfe5a58974e76b0f065ad68291c2a
+run_name: unequaled-chimp-863
+run_uuid: 8d6cfe5a58974e76b0f065ad68291c2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746957956906
+status: 4
+tags: []
+user_id: mac

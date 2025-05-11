@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/867517689736163813/f10d98372c324508a99a31bf46234938/artifacts
+end_time: 1746959837467
+entry_point_name: ''
+experiment_id: '867517689736163813'
+lifecycle_stage: active
+run_id: f10d98372c324508a99a31bf46234938
+run_name: monumental-shad-369
+run_uuid: f10d98372c324508a99a31bf46234938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746959837101
+status: 3
+tags: []
+user_id: mac

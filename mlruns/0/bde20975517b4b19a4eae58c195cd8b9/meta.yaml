@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bde20975517b4b19a4eae58c195cd8b9/artifacts
+deleted_time: 1746958096625
+end_time: 1746957991910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bde20975517b4b19a4eae58c195cd8b9
+run_name: glamorous-eel-957
+run_uuid: bde20975517b4b19a4eae58c195cd8b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746957991898
+status: 4
+tags: []
+user_id: mac

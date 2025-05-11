@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/59ac18f69b944678831795d042c910d6/artifacts
+deleted_time: 1746958320214
+end_time: 1746958285395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 59ac18f69b944678831795d042c910d6
+run_name: nebulous-shrike-586
+run_uuid: 59ac18f69b944678831795d042c910d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746958285389
+status: 4
+tags: []
+user_id: mac

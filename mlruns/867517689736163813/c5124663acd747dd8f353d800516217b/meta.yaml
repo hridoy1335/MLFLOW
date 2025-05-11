@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/867517689736163813/c5124663acd747dd8f353d800516217b/artifacts
+end_time: 1746959804043
+entry_point_name: ''
+experiment_id: '867517689736163813'
+lifecycle_stage: active
+run_id: c5124663acd747dd8f353d800516217b
+run_name: gregarious-eel-611
+run_uuid: c5124663acd747dd8f353d800516217b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746959803338
+status: 4
+tags: []
+user_id: mac

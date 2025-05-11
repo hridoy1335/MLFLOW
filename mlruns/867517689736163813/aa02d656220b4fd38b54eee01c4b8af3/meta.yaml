@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/867517689736163813/aa02d656220b4fd38b54eee01c4b8af3/artifacts
+end_time: 1746963249029
+entry_point_name: ''
+experiment_id: '867517689736163813'
+lifecycle_stage: active
+run_id: aa02d656220b4fd38b54eee01c4b8af3
+run_name: dashing-stork-622
+run_uuid: aa02d656220b4fd38b54eee01c4b8af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746963246947
+status: 3
+tags: []
+user_id: mac

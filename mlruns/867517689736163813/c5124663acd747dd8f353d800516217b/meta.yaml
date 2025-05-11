@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/867517689736163813/c5124663acd747dd8f353d800516217b/artifacts
+deleted_time: 1746962757506
 end_time: 1746959804043
 entry_point_name: ''
 experiment_id: '867517689736163813'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c5124663acd747dd8f353d800516217b
 run_name: gregarious-eel-611
 run_uuid: c5124663acd747dd8f353d800516217b

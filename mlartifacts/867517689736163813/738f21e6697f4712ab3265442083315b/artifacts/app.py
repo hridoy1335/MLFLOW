@@ -1,6 +1,5 @@
 import mlflow
 import mlflow.sklearn 
-import mlflow.sklearn
 from sklearn.datasets import load_wine
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
@@ -36,17 +35,13 @@ with mlflow.start_run():
     mlflow.log_param("max_depth", max_depth)
     mlflow.log_param("n_estimators", n_estimators)
     
-    # plt.figure(figsize=(15,7))
-    # sns.heatmap(confusion_matrics,annot=True)
-    # plt.savefig('confusion_matrix1.png')
+    plt.figure(figsize=(15,7))
+    sns.heatmap(confusion_matrics,annot=True)
+    plt.savefig('confusion_matrix1.png')
     
     
-    # mlflow.log_artifact('confusion_matrix1.png')
-    # mlflow.log_artifact(__file__)
-    
-    mlflow.set_tags({'author':'Hridoy', 'date':'2022-02-20'})
-    
-    mlflow.sklearn.log_model(rf,'RandomForestClassifier')
+    mlflow.log_artifact('confusion_matrix1.png')
+    mlflow.log_artifact(__file__)
     
     
     print('accuracy :', accuracy)
